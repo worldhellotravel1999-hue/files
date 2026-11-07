@@ -1,0 +1,11 @@
+{
+  "_comment": "可选：按 bundleIdentifier 覆盖同步脚本生成的信息。支持字段 name / developerName / localizedDescription / category / subtitle / tintColor / iconURL。以下为示例，取消注释即可使用。",
+  "_example": {
+    "com.example.demo": {
+      "developerName": "Example Studio",
+      "category": "utilities",
+      "localizedDescription": "用一句话介绍这个 App。",
+      "iconURL": "https://example.com/icon.png"
+    }
+  }
+}
